@@ -24,9 +24,11 @@ Frontend:
 - React Router
 - Axios (for API calls)
 - CSS/SCSS for styling
+
 Backend:
 - Node.js
 - Express.js
+
 APIs:
 - OMDb API (for fetching movie details)
 
