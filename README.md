@@ -22,7 +22,6 @@ Once the application is running, you can:
 Frontend:
 - React
 - React Router
-- Axios (for API calls)
 - CSS/SCSS for styling
 
 Backend:
